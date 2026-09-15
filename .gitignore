@@ -1,0 +1,40 @@
+# PyCharm created (.idea)
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*$py.class
+
+# Distribution / packages
+dist/
+build/
+*.egg-info/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Large data files (reference only - keep raw data elsewhere)
+*.tif
+*.tiff
+*.shp
+*.shx
+*.dbf
+*.cpg
+*.prj
+
+# Test files
+data/test_*.tif
+
+# Personal notes and learning logs
+notes/
+
+# Personal emails and strategies
+email_dr_farid.md
+
+# Temporary computations
+week6_sensitivity.py
+
+# VS Code
+.vscode/
