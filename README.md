@@ -85,6 +85,6 @@ This project follows a 12-week fast-track timeline designed to:
 - Dr. Ahmed Farid (PINNs for H2-brine IFT)
 - Pio Petro Online Internship (Hydrogen Track)
 - University of Zimbabwe Supervisors
-- P. Kufamuni (undergraduate supervisor, research guidance)
+- P. Kufamini, PhD (Research guidance)
 - Open data providers (Global Solar Atlas, WRI Aqueduct, USGS)
 ``
