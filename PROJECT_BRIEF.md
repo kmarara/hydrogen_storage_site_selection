@@ -1,4 +1,21 @@
-# PROJECT BRIEF: Geospatial Multi-Objective Optimization for Subsurface Green Hydrogen Storage
+# FAST TRACK RESEARCH PROTOCOL
+# Applied to: A Decision-Support Framework for Subsurface Green Hydrogen Storage
+
+## WHO THIS WORKS FOR
+
+This method works for you because:
+- You have a clear, novel research question (decision-support framework for H2 storage)
+- You have access to open data (USGS, WRI, Global Solar Atlas)
+- You have a technical skill set that is rare (Python + Petroleum Chemistry + PINNs)
+- You are not trying to win a Nobel Prize. You are trying to publish a solid, citable paper that opens doors for PhD applications.
+
+This method does NOT work for:
+- People who want to boil the ocean
+- People who keep "reading more" without writing
+- People who wait for perfect data before starting
+
+You are none of those. Let's go.
+
 
 ## FOR THE AI ASSISTANT: READ THIS FIRST
 
@@ -16,7 +33,29 @@ I am learning GeoPandas, Rasterio, and Folium. Do not assume I know everything. 
 **Name:** Kudakwashe Douglas Marara
 **Background:** BSc (Hons) Petroleum Chemistry, University of Zimbabwe (2.1)
 **Skills:** Python basics, petroleum chemistry, thermodynamics, data analysis
-**Learning:** GeoPandas, Rasterio, Folium, Physics-Informed Neural Networks (PINNs)
+**Learning Objectives:**
+
+### Technical Skills
+- Advanced multi-objective optimization using Python (Pandas, NumPy)
+- Sensitivity analysis and robustness mapping
+- PINN implementation using PyTorch or TensorFlow
+- Integration of thermodynamic constraints (Peng-Robinson EOS, LGT) into neural networks
+- Geospatial analysis with GeoPandas and Rasterio
+- Decision-ready data visualization and export
+
+### Decision Science Concepts
+- Multi-criteria decision analysis (MCDA) frameworks
+- Uncertainty quantification and propagation
+- Robust decision-making under deep uncertainty
+- Decision theory applications for energy infrastructure
+- Go/no-go criteria development and justification
+
+### Python Implementation Skills
+- Building and training PINNs with PyTorch/TensorFlow
+- Geospatial data processing with GeoPandas and Rasterio
+- Creating decision-ready visualizations and exports
+- Uncertainty quantification and propagation
+- Exporting results in formats suitable for decision-makers
 **Goal:** Build an open-source framework for hydrogen storage site selection, publish a paper, and use it for Master's applications (UCL, Aalto, LUT)
 
 ## THE RESEARCH PROJECT
