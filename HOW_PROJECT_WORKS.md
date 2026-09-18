@@ -74,8 +74,6 @@ Finding the best subsurface hydrogen storage site requires balancing:
 - **Created by:** Kudakwashe Douglas Marara
 - **Institution:** University of Zimbabwe (BSc Hons Petroleum Chemistry, 2025)
 - **Email:** kudakwashe.d.marara@gmail.com
-- **GitHub/LinkedIn:** [add your profile URL]
-- **Target Master's:** UCL MSc Energy Systems, Aalto MSc Hydrogen, LUT MSc Power-to-X
 
 ## Citation
 If you use this framework in your work, please cite:

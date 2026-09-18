@@ -1,32 +1,6 @@
 # FAST TRACK RESEARCH PROTOCOL
 # Applied to: A Decision-Support Framework for Subsurface Green Hydrogen Storage
 
-## WHO THIS WORKS FOR
-
-This method works for you because:
-- You have a clear, novel research question (decision-support framework for H2 storage)
-- You have access to open data (USGS, WRI, Global Solar Atlas)
-- You have a technical skill set that is rare (Python + Petroleum Chemistry + PINNs)
-- You are not trying to win a Nobel Prize. You are trying to publish a solid, citable paper that opens doors for PhD applications.
-
-This method does NOT work for:
-- People who want to boil the ocean
-- People who keep "reading more" without writing
-- People who wait for perfect data before starting
-
-You are none of those. Let's go.
-
-
-## FOR THE AI ASSISTANT: READ THIS FIRST
-
-You are my research collaborator, not just a code generator. Your role is to:
-1. Help me build a working Python framework
-2. Teach me as we build (explain the "why" behind every line)
-3. Help me create rich literature review notes
-4. Challenge my assumptions and suggest improvements
-5. Keep me from burnout by breaking tasks into small, completable blocks
-
-I am learning GeoPandas, Rasterio, and Folium. Do not assume I know everything. When you write code, add comments explaining what each block does and why. When I make a mistake, explain the concept, not just the fix.
 
 ## WHO I AM
 
@@ -173,70 +147,6 @@ I attended a lecture by Dr. Ahmed Farid on Physics-Informed Neural Networks (PIN
     └── 📄 supervisor_meetings.md
 ```
 
-## LEARNING WORKFLOW
-
-### For Every Coding Session
-
-**Before I start:**
-1. Open `notes/learning_log.md` and write today's date and goal
-2. Open the relevant notebook
-
-**While coding:**
-3. Ask the AI: "Explain what this code does and why we use this approach"
-4. Add comments to every function
-5. When I hit an error, log it in `notes/errors_and_fixes.md` with the solution
-
-**After I finish:**
-6. Write 3 bullet points in `notes/learning_log.md`:
-   - What I built today
-   - What I learned today
-   - What's next
-
-### For Every Paper I Read
-
-Create a new file in `literature/summaries/` with this template:
-
-```markdown
-# Paper Title
-**Authors:** 
-**Year:** 
-**Journal:** 
-**DOI/Link:** 
-
-## Why I Read This
-(1-2 sentences on relevance to my project)
-
-## Key Findings
-- 
-- 
-- 
-
-## Methodology
-(What methods did they use?)
-
-## How It Connects to My Work
-(How can I use this? What can I cite?)
-
-## Quotes to Use
-> "quote" (page number)
-
-## Questions I Have
-- 
-- 
-```
-
-### For Every Concept I Learn
-
-Add to the relevant notes file (`geopandas_notes.md`, `pinns_notes.md`, etc.):
-
-```markdown
-## Concept Name
-**What it is:** 
-**Why it matters for my project:** 
-**Code example:** 
-**Common mistakes:** 
-```
-```
 
 ## MILESTONES (12-Week Plan)
 
@@ -270,30 +180,8 @@ Add to the relevant notes file (`geopandas_notes.md`, `pinns_notes.md`, etc.):
 | 11 | Integrate PINN output as GIS layer | Updated heatmap | ⏳ Pending |
 | 12 | Write paper draft | Full draft | ⏳ Pending |
 
-## HOW THE AI SHOULD HELP ME
 
-### When I ask for code:
-- Write clean, commented Python
-- Explain the "why" behind each step
-- Suggest better approaches if you see them
-- Tell me what could go wrong
-
-### When I ask about a concept:
-- Use analogies from petroleum chemistry (I know that domain)
-- Show me a minimal code example
-- Link to the official documentation
-
-### When I'm stuck:
-- Ask me what I've tried
-- Break the problem into smaller pieces
-- Give me a hint, not the full answer (I want to learn)
-
-### When I'm overwhelmed:
-- Remind me of the 5% Planning Block
-- Suggest we work on just one small task
-- Celebrate the small wins
-
-## CURRENT STATUS (Update This Weekly)
+## CURRENT STATUS 
 
 **Date:** [UPDATE]
 **Week:** [UPDATE]
@@ -302,10 +190,6 @@ Add to the relevant notes file (`geopandas_notes.md`, `pinns_notes.md`, etc.):
 **Next Task:** [UPDATE]
 
 ## KEY REFERENCES
-
-### Foundational Papers
-1. [Add papers as you find them]
-2. 
 
 ### Data Sources
 1. Global Solar Atlas: https://globalsolaratlas.info
@@ -320,35 +204,5 @@ Add to the relevant notes file (`geopandas_notes.md`, `pinns_notes.md`, etc.):
 - Capillary Trapping
 - Site Suitability Analysis
 
-## RULES FOR THIS PROJECT
-
-1. **Never edit raw data.** Always work on copies in `processed/`.
-2. **Document everything.** If it's not written down, it didn't happen.
-3. **Commit to Git daily.** Even if it's just a note.
-4. **One notebook, one purpose.** Don't mix preprocessing with visualization.
-5. **Ask "why" before "how."** Understand the concept before writing the code.
-6. **Take breaks.** If you're stuck for 30 minutes, walk away. Come back fresh.
-7. **Celebrate progress.** Every completed notebook is a win.
-
 ---
-
-**Remember:** This is not just a paper. This is a portfolio piece, a learning journey, and a foundation for your career. Go slow to go fast. One block at a time.
 ```
-
----
-
-### How to Use This File
-
-1. **Save it** as `PROJECT_BRIEF.md` in your `01_Research/` folder.
-2. **At the start of every opencode/Claude session**, say: *"Read PROJECT_BRIEF.md and help me with the next task."*
-3. **Update the "Current Status" section** every Sunday.
-4. **Update the milestone tables** as you complete weeks.
-5. **Add papers** to the Key References section as you find them.
-
-This file is your research brain. It tells the AI who you are, what you're building, how you learn, and where you're going. Feed it once, and every session will be productive.
-
-Now go create the folder, save this file, and start Week 2. What's your next move?
-
----
-
-**Email Status:** Dr. Farid email draft composed at option_4_paper/email_dr_farid.md. Awaiting response.

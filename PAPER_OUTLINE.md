@@ -190,29 +190,7 @@
 
 ---
 
-## HOW THE AI SHOULD HELP
-
-### When I ask for code:
-- Write clean, commented Python
-- Explain the "why" behind each step
-- Connect methodology to decision-support goals
-- Ensure PINN integration serves the decision framework
-
-### When I ask about concepts:
-- Use decision-science framing
-- Connect to PhD application goals
-- Provide both theoretical and implementation perspectives
-- Emphasize practical decision-support utility
-
-### When I'm stuck:
-- Break the problem into decision-layer components
-- Connect to existing framework components
-- Provide both theoretical and practical perspectives
-- Emphasize the decision-support utility of the solution
-
----
-
-## STATUS UPDATE: WHERE WE ARE (For Next Session)
+## STATUS UPDATE: WHERE WE ARE
 
 ### Current Project State
 - **Framework:** Two-layer decision-support framework for subsurface hydrogen storage site selection
@@ -239,6 +217,3 @@
 - Connect strategic screening layer with tactical planning layer
 - Start Southern Africa case study demonstration
 - Document framework outputs as decision-ready recommendations
-
----
-*This status update provides a clear picture of the project state for the next session, emphasizing the decision-support framework direction and where we are in the 12-week timeline.*

@@ -77,8 +77,7 @@ This project follows a 12-week fast-track timeline designed to:
 - Use the work as a centerpiece for Master's scholarship applications (UCL, Aalto, LUT)
 
 **Created by:** Kudakwashe Douglas Marara  
-**Institution:** University of Zimbabwe (BSc Hons Petroleum Chemistry, 2025)  
-**Target:** September 2027 Master's Intake  
+**Institution:** University of Zimbabwe (BSc Hons Petroleum Chemistry, 2025)   
 **Email:** kudakwashe.d.marara@gmail.com
 
 ## Acknowledgments
